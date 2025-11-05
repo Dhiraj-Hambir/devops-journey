@@ -3,7 +3,7 @@
 ## Goal
 Create IAM user, attach policy, enable MFA, and verify login.
 
-## Steps
+## Steps-
 - Created IAM user "devops-dhiraj"
 - Enabled MFA (Google Authenticator)
 - Attached AdministratorAccess (temporary for labs)
