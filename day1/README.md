@@ -4,7 +4,7 @@
 Create IAM user, attach policy, enable MFA, and verify login.
 
 ## Steps
-- Created IAM user `devops-dhiraj`
+- Created IAM user "devops-dhiraj"
 - Enabled MFA (Google Authenticator)
 - Attached AdministratorAccess (temporary for labs)
 - Verified console login with MFA
